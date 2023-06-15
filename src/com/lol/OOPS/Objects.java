@@ -35,6 +35,8 @@ public class Objects {
 
 
 
+
+
     }
 }
 
@@ -102,7 +104,7 @@ class Student {
     // this called initializing the object
 
     Student(int rno, String naam, Float marks){//these are called parameters
-        this.rno = 123;
+        this.rno = rno;
                                    // this keyword is used to
                                 // refer to the current object
         this.name = naam;           // you con skip using this if the

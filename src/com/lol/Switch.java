@@ -1,22 +1,25 @@
 package com.lol;
 
 import java.util.Scanner;
-/*
+
 public class Switch {
     public static void main(String[] args) {
-       Scanner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
+        System.out.println("Enter the name of fruit: ");
         String fruit = in.next();
-     if ( fruit.equals("mango;");
-        System.out.println("king of fruits");
-        }else if (fruit.equals("apple")){
+      /*  if (fruit.equals("mango")) {
+            System.out.println("king of fruits");
+        } else if (fruit.equals("apple")) {
+
             System.out.println("red fruit");
-        }else if (fruit.equals("banana")){
+        } else if (fruit.equals("banana")) {
             System.out.println("yellow fruit");
-        }else{
+        } else {
 
-        System.out.println("invalid fruit");
-        }
+            System.out.println("invalid fruit");
+        }  */
 
+        ///The above code can be written as: SWITCH STATEMENT
 
 
         switch (fruit) {
@@ -29,7 +32,7 @@ public class Switch {
 
 
         int day = in.nextInt();
-        switch(day){
+        switch (day) {
             case 1 -> System.out.println("monday");
             case 2 -> System.out.println("tuesday");
             case 3 -> System.out.println("wednesday");
@@ -42,9 +45,9 @@ public class Switch {
         }
 
 
-     int day = in.nextInt();
+        int Day = in.nextInt();
 
-        switch (day) {
+        switch (Day) {
             case 1:
             case 2:
 
@@ -64,15 +67,16 @@ public class Switch {
                 System.out.println("invalid day");
                 break;
         }
-         The above code can be written as: ENHANCED SWITCH STATEMENT
+        // The above code can be written as: ENHANCED SWITCH STATEMENT
 
-        int day = in.nextInt();
+      /*  int day = in.nextInt();
         switch (day) {
             case 1, 2, 3, 4, 5 -> System.out.println("Weekday");
             case 6, 7 -> System.out.println("weekend");
             default -> System.out.println("invalid day");
-        }
+        } */
+    }
 }
-*/
+
 
 
