@@ -1,9 +1,7 @@
-package com.lol.Arrays;
+package com.lol.Arrays_Arraylist;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
-import static java.lang.System.in;
 
 public class ArrayList_eg {
     public static void main(String[] args) {

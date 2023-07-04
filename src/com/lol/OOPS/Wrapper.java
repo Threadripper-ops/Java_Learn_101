@@ -15,6 +15,14 @@ public class Wrapper {
         // then you cnt reassign it to a new object,
          //kunal = new A("new object");
 
+        A obj = new A("Rnamijd");
+        System.out.println(obj);     // it prints some hash value /
+        // but we want it to print the name we declared above
+        // so in order to do this we use "Ovveride".
+
+
+
+
 
     }
 

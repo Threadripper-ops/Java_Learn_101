@@ -1,4 +1,4 @@
-package com.lol.Arrays;
+package com.lol.Arrays_Arraylist;
 
 import java.util.Arrays;
 

@@ -1,8 +1,8 @@
-package com.lol.Arrays.Question_array;
+package com.lol.Arrays_Arraylist.Question_array;
 
 import java.util.Arrays;
 
-import static com.lol.Arrays.Question_array.Swap.swap;
+import static com.lol.Arrays_Arraylist.Question_array.Swap.swap;
 
 public class Max_item {
     public static void main(String[] args) {

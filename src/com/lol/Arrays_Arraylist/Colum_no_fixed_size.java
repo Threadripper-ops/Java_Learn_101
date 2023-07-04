@@ -1,4 +1,4 @@
-package com.lol.Arrays;
+package com.lol.Arrays_Arraylist;
 
 public class Colum_no_fixed_size {
     public static void main(String[] args) {

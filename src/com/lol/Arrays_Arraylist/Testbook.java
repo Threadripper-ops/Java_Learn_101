@@ -1,4 +1,4 @@
-package com.lol.Arrays;
+package com.lol.Arrays_Arraylist;
 
 class Testbook{
     public static void main(String[] args){

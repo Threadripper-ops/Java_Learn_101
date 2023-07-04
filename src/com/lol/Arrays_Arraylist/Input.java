@@ -1,9 +1,7 @@
-package com.lol.Arrays;
+package com.lol.Arrays_Arraylist;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
-import static java.lang.System.in;
 
 public class Input {
     public static void main(String[] args) {

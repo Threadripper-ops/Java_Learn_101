@@ -1,4 +1,4 @@
-package com.lol.Arrays.Question_array;
+package com.lol.Arrays_Arraylist.Question_array;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.lol.Arrays;
+package com.lol.Arrays_Arraylist;
 
 abstract class Abook {
     protected String title;
