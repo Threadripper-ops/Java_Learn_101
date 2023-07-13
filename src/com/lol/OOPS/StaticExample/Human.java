@@ -8,6 +8,11 @@ public class Human {
 
     static long population;
 
+    static void message(){
+        System.out.println("Hello");
+       // System.out.println(this.age); //Cant use this in static context
+    }
+
 
     public Human(int age, String name, int salary, boolean married) {
         this.age = age;
