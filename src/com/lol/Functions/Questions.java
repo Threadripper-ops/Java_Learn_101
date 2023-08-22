@@ -6,15 +6,15 @@ public class Questions {
     public static void main(String[] args) {
         // check for prime number
         Scanner in = new Scanner(System.in);
-        //int n = in.nextInt();
-       // System.out.println(isPrime(n));
+        int n = in.nextInt();
+       System.out.println(isPrime(n));
       //  System.out.println(isArmstrong(n));
         //All armstrong no between a range
-        for(int i=1;i<1000; i++){
-            if (isArmstrong(i)){
-                System.out.print(i+" ");
-            }
-        }
+//        for(int i=1;i<1000; i++){
+//            if (isArmstrong(i)){
+//                System.out.print(i+" ");
+//            }
+//        }
 
 
     }
