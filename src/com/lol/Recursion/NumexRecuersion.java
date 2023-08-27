@@ -8,7 +8,7 @@ public class NumexRecuersion {
     // since all the other fxns have same definition
     // instead  of creating seperate fxns and calling them
     // call the same fxn inside the function.now the fxn becomes a recursive fxn.
-
+   
     static void print(int n){
 
         if (n==5){
