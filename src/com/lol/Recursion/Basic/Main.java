@@ -1,4 +1,4 @@
-package com.lol.Recursion;
+package com.lol.Recursion.Basic;
 
 public class Main {
     public static void main(String[] args) {

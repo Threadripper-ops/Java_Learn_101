@@ -1,4 +1,4 @@
-package com.lol.Recursion;
+package com.lol.Recursion.Basic;
 
 public class Fibo {
     public static void main(String[] args) {

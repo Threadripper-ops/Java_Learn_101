@@ -10,25 +10,24 @@ public class BinarySearch {
 
     }
 
-    static  int search(int[] arr, int target,int s, int e){
-
+    static  int search(int[] arr, int target,int start, int e){
         //        int s =0;
-//        int e =arr.length-1; these variables will be called inside the recursive fxn, so they cannot be placed in the body  rather it must be passed as an argument
+// int e =arr.length-1; these variables will be called inside the recursive fxn, so they cannot be placed in the body  rather it must be passed as an argument
 
 
 
-        if(s>e){
+        if(start>e){
             return -1;
         }
 
-        int m =s +(e-s)/2;
+        int m =start +(e-start)/2;
 
 
         if (arr[m]==target){
             return m;
         }
         if (target<arr[m]){
-            return search(arr,target,s,m-1);
+            return search(arr,target,start,m-1);
         }
         return search(arr,target,m+1,e);
 

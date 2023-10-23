@@ -1,4 +1,4 @@
-package com.lol.Arrays_Arraylist.Algorithms;
+package com.lol.Arrays_Arraylist.Algorithms.LinearSearch;
 
 public class LinearSearch {
 
