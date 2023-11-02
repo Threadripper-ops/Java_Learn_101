@@ -33,10 +33,6 @@ public class NumbersEx {
     //fxn body is changed
     static void print5(int n){
         System.out.println(n);
-    }
+    }}
 // here all the fxns have same defination and body
-    ///SO INSTEAD OF CREATING ANOTHER NEW FXN WE COUD DO LIKE THIS
-
-
-
-}
+    ///SO INSTEAD OF CREATING ANOTHER NEW FXN WE COUD
