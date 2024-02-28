@@ -1,4 +1,4 @@
-package com.lol.Arrays_Arraylist.Algorithms;
+package com.lol.Algorithms.BinarySearch;
 
 public class OrderAgsBinSer {
     public static void main(String[] args) {

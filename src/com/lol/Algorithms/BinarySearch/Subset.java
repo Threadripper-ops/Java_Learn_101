@@ -1,4 +1,4 @@
-package com.lol.Arrays_Arraylist.Algorithms;
+package com.lol.Algorithms.BinarySearch;
 
 import java.util.ArrayList;
 import java.util.Arrays;

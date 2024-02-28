@@ -1,4 +1,4 @@
-package com.lol.Arrays_Arraylist.Algorithms.LinearSearch;
+package com.lol.Algorithms.LinearSearch;
 
 import java.util.Arrays;
 
