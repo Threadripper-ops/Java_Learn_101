@@ -1,5 +1,4 @@
 package com.lol.Algorithms.Sorting;
-
 import java.util.Arrays;
 
 public class CyclicSort {
@@ -16,11 +15,10 @@ public class CyclicSort {
 
         while(i<arr.length){
             int corr = arr[i]-1;
-            if(arr[i]!=arr[corr]){  //
+            if(arr[i]!=arr[corr]){
                 swap(arr,i,corr);// we are taking the first index element and swapping it with its correct index element
                 
-            }else i++
-            ;
+            }else i++;
         }
 
     }
